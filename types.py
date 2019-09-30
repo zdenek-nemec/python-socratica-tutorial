@@ -11,3 +11,6 @@ print(number_complex)
 print(type(number_complex))
 print(number_complex.real)
 print(number_complex.imag)
+
+print(type(True))
+print(type(False))
