@@ -14,3 +14,11 @@ print(number_complex.imag)
 
 print(type(True))
 print(type(False))
+
+my_set = set()
+print(type(my_set))
+my_set.add(42)
+my_set.add(False)
+my_set.add(3.14156)
+my_set.add("Thorium")
+print(my_set)
