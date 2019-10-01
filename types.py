@@ -28,3 +28,8 @@ print(type(my_list))
 my_list.append(1)
 my_list.append("Hello")
 print(my_list)
+
+my_dictionary = {"user_id":209, "message":"D5 E5 C5 C4 G4", "language":"English"}
+print(type(my_dictionary))
+print(my_dictionary.keys())
+print(my_dictionary.values())
