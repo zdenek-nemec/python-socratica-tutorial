@@ -33,3 +33,7 @@ my_dictionary = {"user_id":209, "message":"D5 E5 C5 C4 G4", "language":"English"
 print(type(my_dictionary))
 print(my_dictionary.keys())
 print(my_dictionary.values())
+
+my_tuple = (1, 2, 3)
+print(type(my_tuple))
+print(my_tuple)
