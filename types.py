@@ -22,3 +22,9 @@ my_set.add(False)
 my_set.add(3.14156)
 my_set.add("Thorium")
 print(my_set)
+
+my_list = []
+print(type(my_list))
+my_list.append(1)
+my_list.append("Hello")
+print(my_list)
