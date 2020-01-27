@@ -1,1 +1,1 @@
-# python-socratica-tutorial
+# Python Tutorial - Socratica
